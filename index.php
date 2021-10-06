@@ -5,7 +5,21 @@
     <title>HTML Tutorial</title>
   </head>
   <body>
-    <h1>Rólam</h1>
-
+    <h1>Duplézóa/h1>
+    <<?php
+      $bence = new rolam();
+      $bence-> nevem();
+      $bence->foglalkozasom();
+      $bence->idezetem();
+     ?>
   </body>
 </html>
+<?php
+  class rolam
+  {
+    public function nevem()
+    {
+
+    }
+}
+ ?>
