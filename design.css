@@ -1,0 +1,22 @@
+.container {
+  text-align: center;
+  width: 100%;
+}
+
+.col-sm-4 {
+  border: solid 1px black;
+  border-radius: 15px;
+}
+
+.row {
+  width: 80%;
+  
+}
+
+p {
+  letter-spacing: -1px;
+}
+
+h4 {
+  text-transform: uppercase;
+}
